@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-###My name is Tyler and I'm learning to program! 
+### My name is Tyler and I'm learning to program! 
 
 I am gaining experience with:
 - Python
