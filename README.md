@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hello! 👋
 
+###My name is Tyler and I'm learning to program! 
+
+I am gaining experience with:
+- Python
+- SQL
+- C#
+- HTML & CSS
 <!--
 **bootofdoom/bootofdoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
